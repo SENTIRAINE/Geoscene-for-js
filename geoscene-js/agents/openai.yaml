@@ -1,0 +1,4 @@
+interface:
+  display_name: "GeoScene JS"
+  short_description: "Build GeoScene JavaScript maps"
+  default_prompt: "Use $geoscene-js to build a GeoScene Maps SDK for JavaScript map."
